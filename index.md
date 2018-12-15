@@ -1,40 +1,25 @@
-## Self-Driving Cars
+[image1]: ./assets/img/iccg.png "ICCG Overview"
+[image2]: ./assets/img/lane_detected_test4.jpg "Lane Detection"
 
-<img align="right" src="/assets/img/logo.png" />
+### ICCG
 
-This is my pfirst project whatever you think it is it is just awesome. Well I just said something gibberish I just want to write something that spans over multiple lines. Thank you very much for reading.
+![alt text][image1]
 
-### Markdown
+[ICCG][0] is an online web game for understanding human comprehension. The project was supervised by the author who proposed the game.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### OpenCV Lane Detection
 
-```markdown
-Syntax highlighted code block
+![alt text][image2]
 
-# Header 1
-## Header 2
-### Header 3
+[Lane Detection][1] is an OpenCV based application that employs various traditional computer vision techniques including view warping and covolutions.
 
-- Bulleted
-- List
+### Highway Path Planning
 
-1. Numbered
-2. List
+![alt text][image3]
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Xiaohong-Deng/portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Path Planning][2] is 
 
 ---
-[0]:
+
+[0]: https://github.com/Xiaohong-Deng/mooqita-icccg
+[1]: https://github.com/Xiaohong-Deng/CarND-Advanced-Lane-Lines
