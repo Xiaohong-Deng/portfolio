@@ -32,7 +32,7 @@ After trajectory is generated, How do you control the throttle and steering angl
 
 ## More Projects
 
-Want to see more projects on Self-Driving car I have been working on? Check out [beyond-self-driving-car][6]. Welcome to check out my other repositories that might interest you at [My Github Account][7]. For example, [NP-Hard and NP-Complete Problem Sets][8].
+Want to see more projects on Self-Driving car I have been working on? Check out [beyond-self-driving-car][6]. Welcome to check out my other repositories that might interest you at Github (click the icon on the upper left). For example, [NP-Hard and NP-Complete Problem Sets][7].
 
 ---
 
@@ -43,5 +43,4 @@ Want to see more projects on Self-Driving car I have been working on? Check out 
 [4]: https://github.com/Xiaohong-Deng/CarND-Path-Planning-Project
 [5]: https://github.com/Xiaohong-Deng/CarND-MPC-Project
 [6]: https://github.com/Xiaohong-Deng/beyond-self-driving-car
-[7]: https://github.com/Xiaohong-Deng
-[8]: https://github.com/Xiaohong-Deng/algorithms/tree/master/discrete-opt
+[7]: https://github.com/Xiaohong-Deng/algorithms/tree/master/discrete-opt
