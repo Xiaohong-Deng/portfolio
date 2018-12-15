@@ -1,11 +1,3 @@
-<object width="425" height="350">
-  <param name="movie" value="https://www.youtube.com/watch?v=S1dry98SYTw" />
-  <param name="wmode" value="transparent" />
-  <embed src="https://www.youtube.com/watch?v=S1dry98SYTw"
-         type="application/x-shockwave-flash"
-         wmode="transparent" width="425" height="350" />
-</object>
-
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Xiaohong-Deng/portfolio/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
