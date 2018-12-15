@@ -1,6 +1,6 @@
 # theme: jekyll-theme-minimal
 gem "github-pages", group: :jekyll_plugins
 title: Portfolio
-description: A List of Projects I Have Done
+description: A List of Projects I Have Been Tinkering on
 github_url: https://github.com/Xiaohong-Deng
 twitter_url: https://twitter.com/wudongnoodles
