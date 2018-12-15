@@ -4,7 +4,7 @@
 [image4]: ./assets/img/path_planning.png "Path Planning"
 [image5]: ./assets/img/sh-2018-04-11.png "MPC"
 
-### ICCG
+### Iterative Crowdsourcing Comprehension Game
 
 ![alt text][image1]
 
