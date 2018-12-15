@@ -1,1 +1,4 @@
 theme: jekyll-theme-minimal
+gem "github-pages", group: :jekyll_plugins
+title: Portfolio
+description: A List of Projects I Have Done
